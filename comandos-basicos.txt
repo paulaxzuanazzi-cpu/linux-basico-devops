@@ -1,0 +1,10 @@
+pwd  - mostra o diretório atual
+ls   - lista arquivos e pastas
+cd   - navega entre diretórios
+mkdir - cria diretório
+touch - cria arquivo
+rm   - remove arquivos ou pastas
+cp   - copia arquivos
+mv   - move ou renomeia arquivos
+cat  - exibe conteúdo de arquivo
+chmod - altera permissões
